@@ -1,1 +1,2 @@
 In file 'a'
+Added line 2 by Dev 2
